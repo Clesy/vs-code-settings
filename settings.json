@@ -1,17 +1,24 @@
 {
+    // PYTHON 
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
     "python.testing.pytestArgs": [
         "-s",
         "-vv"
     ],
+    // EDITOR
     "editor.formatOnSave": true,
-    "workbench.tree.indent": 20,
-    "window.density.editorTabHeight": "compact",
-    "workbench.activityBar.location": "top",
     "editor.scrollbar.horizontal": "hidden",
     "editor.scrollbar.vertical": "hidden",
     "editor.quickSuggestionsDelay": 0,
     "editor.accessibilitySupport": "off",
+    "editor.suggestSelection": "first",
+    "editor.rulers": [
+        120
+    ],
+    // WORKBENCH
+    "workbench.tree.indent": 20,
+    "window.density.editorTabHeight": "compact",
+    "workbench.activityBar.location": "top",
     "breadcrumbs.icons": false,
 }
