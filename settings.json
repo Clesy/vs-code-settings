@@ -1,0 +1,17 @@
+{
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": [
+        "-s",
+        "-vv"
+    ],
+    "editor.formatOnSave": true,
+    "workbench.tree.indent": 20,
+    "window.density.editorTabHeight": "compact",
+    "workbench.activityBar.location": "top",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.quickSuggestionsDelay": 0,
+    "editor.accessibilitySupport": "off",
+    "breadcrumbs.icons": false,
+}
